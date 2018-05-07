@@ -1,5 +1,4 @@
 # VVGenie
-<img>https://i.imgur.com/Jm2DbpM.jpg</img>
 <b>What is VVCoin</b>  http://vvcoin.io/
 
 VVCoin is an ethereum blockchain based ERC20 created for facilitating tourists all across the globe.
