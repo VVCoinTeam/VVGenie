@@ -1,30 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @VVCoinTeam
-
-0
-0
-
-    1
-
-vvcoin/vvcoin
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Insights
-vvcoin/SMART CONTRACT/TokenVV.h
-2e488cd on Feb 14
-@vvcoin vvcoin Rename src/TokenVV.h to SMART CONTRACT/TokenVV.h
-288 lines (246 sloc) 9.79 KB
 pragma solidity ^0.4.15;
 
 contract MultiOwner {
@@ -312,19 +285,3 @@ contract VVToken is MultiOwner{
 		Bonus(BonusValue);
 	}
 }
-
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
-Press h to open a hovercard with more details.
