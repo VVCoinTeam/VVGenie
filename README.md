@@ -18,6 +18,7 @@ VVCoin aims to create a mobile application VVGENIE that will use Augmented Reali
 <b>Facebook:</b> https://www.facebook.com/vvcoin/
 
 <b>Reddit:</b> https://www.reddit.com/user/VVcoin/
+
 <b>Cryptocompare：</b> https://www.cryptocompare.com/coins/vvi/overview
 
 <b>Twitter:</b> https://twitter.com/VVcoin
